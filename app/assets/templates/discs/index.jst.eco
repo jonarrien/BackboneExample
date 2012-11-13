@@ -1,0 +1,39 @@
+<h1>Discs</h1>
+
+<div class="hero-unit">
+    <ul id="discs" class="ui-table"></ul>
+</div>
+
+<br>
+
+<div class="hero-unit">
+    <form id="new_disc" class="form-inline">
+
+        <div class="control-group">
+            <legend>Disc Title</legend>
+            <div class="controls">
+                <input type="text" name="new_disc_title" id="new_disc_title" placeholder="Disc Title..." class="input-large">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <legend>Disc Image</legend>
+            <div class="controls">
+                <input id="new_disc_image" type="file" class="large" style="display:none">
+                <div class="input-append">
+                   <input id="photoCover" class="input-large" type="text">
+                   <a class="btn" onclick="$('input[id=new_disc_image]').click();">Browse</a>
+                </div>
+
+                <script type="text/javascript">
+                    $('input[id=new_disc_image]').change(function() {
+                       $('#photoCover').val($(this).val());
+                    });
+                </script>
+            </div>
+        </div>
+
+        <input type="submit" value="Add" class="btn btn-primary btn-large">
+    </form>
+</div>
+

@@ -1,0 +1,4 @@
+<img src="<%= @disc.get('image') %>" alt="">
+<h5>
+    <%= @disc.get('title') %>
+</h5>

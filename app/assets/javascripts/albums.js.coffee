@@ -1,9 +1,11 @@
 window.Albums =
-  Models: {}
-  Collections: {}
-  Views: {}
-  Routers: {}
-  initialize: -> alert 'Hello from Backbone!'
+    Models: {}
+    Collections: {}
+    Views: {}
+    Routers: {}
+    initialize: ->
+        new Albums.Routers.Discs()
+        Backbone.history.start(pushState: true)
 
 $(document).ready ->
-  Albums.initialize()
+    Albums.initialize()

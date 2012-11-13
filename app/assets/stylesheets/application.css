@@ -11,3 +11,75 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+    background-color: #545454;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    background-color: #adadad;
+    border-bottom: 1px solid #8c8c8c;
+    margin-bottom: 20px;
+}
+
+#container {
+    margin-top: 100px;
+}
+
+#content-body {
+    margin-top: 50px;
+    padding: 20px;
+    width: 500px;
+    margin: 0 auto;
+
+    background: #eeeeee; /* Old browsers */
+
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+}
+
+#new_disc {
+    margin-top: 20px;
+}
+
+
+.ui-table {
+    list-style: none;
+    margin: 0;
+}
+
+.ui-cell {
+
+    padding: 5px;
+    height: 80px;
+    border: 1px solid #bbbbbb;
+
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+
+}
+
+.ui-cell img {
+    float: left;
+    width: 72px;
+    height: 72px;
+    margin: 4px;
+    border: 1px solid #a8a8a8;
+}
+
+.ui-cell p {
+    margin-left: 90px;
+    margin-top: 0;
+    padding-top: 30px;
+    font-size: large;
+    width: 400px;
+}
