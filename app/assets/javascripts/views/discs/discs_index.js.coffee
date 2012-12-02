@@ -16,9 +16,14 @@ class Albums.Views.DiscsIndex extends Backbone.View
 
     appendDisc: (disc) =>
         view = new Albums.Views.Disc(model: disc)
-        $('#discs').append(view.render().el)
+        $(@el).find('#discs').append(view.render().el)
+        return
+
+    remove: (disc) =>
+        $(@el).find('.event').remove()
 
     createDisc: (event) ->
+        console.log 'createDisc'
         event.preventDefault()
         file = $('#new_disc_image')[0].files[0]
         @readFile(file)
@@ -41,3 +46,5 @@ class Albums.Views.DiscsIndex extends Backbone.View
                     console.log response
         )
         reader.readAsDataURL(file)
+
+

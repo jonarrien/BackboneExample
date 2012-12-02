@@ -1,0 +1,2369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"processedWidgets"
+			],
+			[
+				"WID",
+				"WIDGET"
+			],
+			[
+				"task_mini",
+				"task_minify_css"
+			],
+			[
+				"task_compi",
+				"task_compile_css"
+			],
+			[
+				"dyn",
+				"dyndocMap"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"dyndoc",
+				"dyndocMap"
+			],
+			[
+				"dyndoc_ed",
+				"dyndoc_edit_modules"
+			],
+			[
+				"style",
+				"style=  (attribute)"
+			],
+			[
+				"WIDG",
+				"WIDGET_TITLE_HEIGHT"
+			],
+			[
+				"data",
+				"dataOffset"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"total",
+				"totalItems"
+			],
+			[
+				"sele",
+				"selectedClass"
+			],
+			[
+				"pack",
+				"packetizeCmd"
+			],
+			[
+				"file",
+				"fileContents"
+			],
+			[
+				"select",
+				"selectable-colrow"
+			],
+			[
+				"ui-dyn",
+				"ui-dyndoc-tooltip-menu"
+			],
+			[
+				"ui-dyndoc",
+				"ui-dyndoc-widget-menu"
+			],
+			[
+				"ui",
+				"ui-dyndoc-widget-body"
+			],
+			[
+				"ui-dyndoc-wid",
+				"ui-dyndoc-widget-header"
+			],
+			[
+				"ui-dy",
+				"ui-dyndoc-widget"
+			],
+			[
+				"max",
+				"max_size_y"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"dele",
+				"deleted_module_position"
+			],
+			[
+				"size",
+				"size_y"
+			],
+			[
+				"ready",
+				"ready	document ready (safe)"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"toggle",
+				"toggleLayers"
+			],
+			[
+				"_sho",
+				"_showErrorDlg"
+			],
+			[
+				"geo",
+				"geographical_module"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"modul",
+				"moduleId"
+			],
+			[
+				"del",
+				"deleted_module_position"
+			],
+			[
+				"edtor",
+				"editorForm"
+			],
+			[
+				"module",
+				"moduleref"
+			],
+			[
+				"editor",
+				"editorcontent"
+			],
+			[
+				"edito",
+				"editorForm"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"_query",
+				"_queryMaps"
+			],
+			[
+				"dyndo",
+				"dyndocMap"
+			],
+			[
+				"opene",
+				"openedModule"
+			],
+			[
+				"__get",
+				"__get_path(view)	(attribute, function)"
+			],
+			[
+				"view",
+				"viewport_position"
+			],
+			[
+				"views",
+				"views	(attribute, instance)"
+			],
+			[
+				"ena",
+				"enableScrollWheelZoom"
+			],
+			[
+				"wid",
+				"widgets"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"open",
+				"openedModule"
+			],
+			[
+				"Dyn",
+				"DynDocEdit"
+			],
+			[
+				"ret",
+				"returnValue"
+			],
+			[
+				"widg",
+				"widgetId"
+			],
+			[
+				"ui-d",
+				"ui-dyndoc-widget-body"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"_crea",
+				"_createEditableTitle"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"grid",
+				"gridster"
+			],
+			[
+				"downl",
+				"download_pdf"
+			],
+			[
+				"inne",
+				"inner_content"
+			],
+			[
+				"inn",
+				"inner_content"
+			],
+			[
+				"_get",
+				"_getMapInfo"
+			],
+			[
+				"div",
+				"divFullScreen"
+			],
+			[
+				"dynd",
+				"dyndocMap"
+			],
+			[
+				"_creat",
+				"_createToolbar"
+			],
+			[
+				"_create",
+				"_createDialogs"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"posi",
+				"positionInput"
+			],
+			[
+				"chan",
+				"changeModuleTitle"
+			],
+			[
+				"pos_",
+				"pos_x"
+			],
+			[
+				"moved",
+				"movedModule"
+			],
+			[
+				"mov",
+				"moveWidget"
+			],
+			[
+				"siz",
+				"size_y"
+			],
+			[
+				"DynDoc",
+				"DynDocText	(imported, class)"
+			],
+			[
+				"index",
+				"index_object"
+			],
+			[
+				"descr",
+				"descriptive_module"
+			],
+			[
+				"Dy",
+				"DynDocText	(global, class)"
+			],
+			[
+				"__",
+				"__class__"
+			],
+			[
+				"tmp",
+				"tmpmodule	(attribute, instance)"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"_setu",
+				"_setupText"
+			],
+			[
+				"_setup",
+				"_setupCharts"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"draw",
+				"drawDashboard"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"has",
+				"hasattr	(builtin, function)"
+			],
+			[
+				"web",
+				"webmapId"
+			],
+			[
+				"toggl",
+				"toggleLayers"
+			],
+			[
+				"layer",
+				"layerCheckbox"
+			],
+			[
+				"active",
+				"activeLayer"
+			],
+			[
+				"activ",
+				"activeLayer"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"mapLay",
+				"mapLayersNode"
+			],
+			[
+				"mapL",
+				"mapLayerToggle"
+			],
+			[
+				"button",
+				"buttonSingle"
+			],
+			[
+				"full",
+				"fullScreen"
+			],
+			[
+				"show",
+				"showAbout"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"butt",
+				"buttonSelected"
+			],
+			[
+				"setti",
+				"settings"
+			],
+			[
+				"layers",
+				"layers"
+			],
+			[
+				"feat",
+				"featureCollection"
+			],
+			[
+				"_inser",
+				"_insertContent"
+			],
+			[
+				"_hide",
+				"_hideGroupAutoComplete"
+			],
+			[
+				"fir",
+				"firstParamFlag"
+			],
+			[
+				"arc",
+				"arcgisRestVersion"
+			],
+			[
+				"confi",
+				"configOptions"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"_set",
+				"_setSidebarHeight"
+			],
+			[
+				"set",
+				"setup"
+			],
+			[
+				"map",
+				"mapid"
+			],
+			[
+				"def",
+				"defaults	NSUserDefaults *"
+			],
+			[
+				"obj",
+				"objectId	int"
+			],
+			[
+				"lbl",
+				"lblLogged	UILabel *"
+			],
+			[
+				"Boo",
+				"BOOL	typedef"
+			],
+			[
+				"twit",
+				"twitterAccounts	NSArray *"
+			],
+			[
+				"Get",
+				"GetCommunityMembership	class"
+			],
+			[
+				"_getC",
+				"_getCommunityMemberships	int *"
+			],
+			[
+				"GetComu",
+				"GetCommunityAttachments	class"
+			],
+			[
+				"app",
+				"appDelegate	iNVASIVEAppDelegate *"
+			],
+			[
+				"user",
+				"userID	NSString *"
+			],
+			[
+				"param",
+				"paramUserID	AGSGPParameterValue *"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/routers/discs_router.js.coffee",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/views/discs/discs_index.js.coffee",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jon/Dropbox/Code3/Ekoled/GestionEnergetica.TODO",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/collections/discs.js.coffee",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+	"command_palette":
+	{
+		"height": 181.0,
+		"selected_items":
+		[
+			[
+				"docume",
+				"Tasks: New document"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"sftp: uplo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sftp:upl",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sftpuplo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sftp: sho",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp:",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sftp: ",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sftp",
+				"SFTP: Upload Folder"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist:op",
+				"Gist: Open Gist"
+			],
+			[
+				"gist:up",
+				"Gist: Update File"
+			],
+			[
+				"gist:",
+				"Gist: Open Gist"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"coffee:",
+				"Coffee: Display Lexer Tokens"
+			],
+			[
+				"",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"user",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"js2",
+				"JS2Coffee: Convert & Overwrite Current File"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sspyh",
+				"Set Syntax: Python"
+			],
+			[
+				"rope: jum",
+				"Rope: Jump To Global"
+			],
+			[
+				"rope",
+				"Rope: Show Documentation"
+			],
+			[
+				"rope: ",
+				"Rope: Show Documentation"
+			],
+			[
+				"rope: go",
+				"Rope: Go to Definition"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"user ",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"codef",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"zen coding",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"gistope",
+				"Gist: Open Gist"
+			],
+			[
+				"gist ope",
+				"Gist: Open Gist"
+			],
+			[
+				"sshl",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"ssc+",
+				"Set Syntax: C++"
+			],
+			[
+				"clang",
+				"Set Syntax: SublimeClangErrorPanel"
+			],
+			[
+				"ss",
+				"Set Syntax: C++"
+			],
+			[
+				"new docu",
+				"Tasks: New document"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeclan",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublimeclang",
+				"Preferences: SublimeClang Settings – User"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 279.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jon/Dropbox/Code3/BackboneExample/app/assets/templates/discs/index.jst.eco",
+		"/Users/jon/Google Drive/Apps/index.html",
+		"/Users/jon/Dropbox/Code3/BackboneExample/log/development.log",
+		"/Users/jon/Dropbox/Code3/BackboneExample/app/assets/javascripts/views/discs/discs_show.js.coffee",
+		"/Users/jon/Dropbox/Code3/BackboneExample/app/assets/javascripts/collections/discs.js.coffee",
+		"/Users/jon/Dropbox/Code3/BackboneExample/app/assets/images/bg.jpg",
+		"/Users/jon/Dropbox/Code3/BackboneExample/sftp-config.json",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/NaayaCore/EmailTool/EmailSender.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/naaya.semide/Products/SemideRegistration/utilities/SendMail.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.min.css",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.css",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/zpt/dyndoc_edit_modules.zpt",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/css/dyndoc.less",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/css/dyndoc.css",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/dyndoc_modules.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/dyndoc_item.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/RDFs.TODO",
+		"/Users/jon/Desktop/jj.TODO",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/js/dyndoc.js",
+		"/Users/jon/Library/Caches/com.binarynights.ForkLift2/#19/common.js",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/css/bootstrap.css",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/Naaya/www/common.css",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/Cakefile",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/GotoLastEdit/Default (OSX).sublime-keymap",
+		"/Users/jon/Dropbox/_i3/_Code/BackboneExample/config.ru",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/YUI Compressor/YUI Compressor.sublime-build",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/DynDoc.sublime-workspace",
+		"/Users/jon/Downloads/exportTriples.action",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.js",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/js/dyndoc.coffee",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/zpt/dyndoc_pdf.zpt",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/setup.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/JS2Coffee/JS2Coffee.sublime-commands",
+		"/Users/jon/Library/Caches/com.binarynights.ForkLift2/#2/dyndoc.coffee",
+		"/Users/jon/Code/workspace_python/CHM/parts/zope-instance/etc/zope.conf",
+		"/Users/jon/Library/Caches/com.binarynights.ForkLift2/#1/zope.conf",
+		"/Users/jon/Library/Caches/com.binarynights.ForkLift2/#0/zope.conf",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/zpt/dyndoc_define_graphic.zpt",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc.backup02/trunk/DynDoc.TODO",
+		"/Users/jon/Desktop/test.csv",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/AAA.TODO",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/NaayaBase/NyFSContainer.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/Naaya/NySite.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/www/js/dyndoc_define_graphic.coffee",
+		"/Users/jon/Desktop/untitled.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/DynDoc.sublime-project",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/gviz_api.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.6/lib/python2.6/os.py",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/app/edit.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/naaya.gwapplications/naaya/gwapplications/emailpt/approved_application.zpt",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/SublimeRope/SublimeRope.sublime-settings",
+		"/Users/jon/Dropbox/_i3/_Code/response.json",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/configure.zcml",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/zope2.zcml",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/Naaya/NyFolder.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/Products/NaayaBase/NyContainer.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/CHANGES.txt",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/AAA.TODO",
+		"/Users/jon/Code/workspace_python/CHM/lib/python2.7/site-packages/easy-install.pth",
+		"/Users/jon/Code/workspace_python/CHM/lib/python2.7/site-packages/setuptools.pth",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/User/SublimeRope.sublime-settings",
+		"/Users/jon/Dropbox/_i3/_Code/BackboneExample/config/initializers/session_store.rb",
+		"/Users/jon/Code/workspace_python/Naaya/third-party/edw-extfile/Products/ExtFile/tests/testToExtImage.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Naaya/naaya/content/mediafile/mediafile_item.py",
+		"/Users/jon/Code/workspace_python/Naaya/eggs/Products.NotificationList/Products/NotificationList/__init__.py",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/browser/configure.zcml",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/common.zcml",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/GotoOpenFile/GotoOpenFile.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+		"/Users/jon/Downloads/Vim.sublime-package/Vim.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/GotoOpenFile/Default (OSX).sublime-keymap",
+		"/Users/jon/Dropbox/APPs/Janus/Jon.md",
+		"/Users/jon/Dropbox/APPs/Janus/janus/vim/gvimrc",
+		"/Users/jon/Dropbox/APPs/Janus/janus/vim/vimrc",
+		"/Users/jon/vimrc_pacopiar",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/SublimePeek/Default (OSX).sublime-keymap",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/configure.zcml",
+		"/Users/jon/Code/workspace_python/Products.OFSP-2.13.2/src/Products/OFSP/help/File.py",
+		"/Users/jon/Code/workspace_python/Products.OFSP-2.13.2/src/Products/OFSP/help/ObjectManager.py",
+		"/Users/jon/Code/workspace_python/Products.OFSP-2.13.2/src/Products/OFSP/configure.zcml",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/configure.zcml",
+		"/Users/jon/Dropbox/BM/BISE/DynDoc.backup02/trunk/setup.py",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/Products/DynDoc/configure.zcml",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/DynDoc.TODO",
+		"/Users/jon/Desktop/index.html",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/Tasks.TODO",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc.sublime-workspace",
+		"/Users/jon/Code/workspace_html5/javascript_paste/index.html",
+		"/Users/jon/Desktop/untitled.html",
+		"/Users/jon/Desktop/OldDesktop/Test.csv",
+		"/Users/jon/Desktop/OldDesktop/SitesInBE copy.csv",
+		"/Users/jon/Library/Caches/com.binarynights.ForkLift2/#0/dyndoc_edit_modules.coffee",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc.backup/trunk/Products/DynDoc/www/js/dyndoc_edit_modules.coffee",
+		"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk/src/Products/DynDoc/zpt/dyndoc_edit.zpt",
+		"/Users/jon/Code/workspace_python/CHM/versions.cfg",
+		"/Users/jon/Code/workspace_python/CHM/naaya.cfg",
+		"/Users/jon/Code/workspace_python/CHM/buildout.cfg",
+		"/Users/jon/Code/workspace_python/CHM/versions-zope-2.12.23.cfg",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/js/edit.js",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/views/js/chart.js",
+		"/Users/jon/Desktop/test.html",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/views/js/edit.js",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.exhibit/eea/exhibit/zope2.zcml",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/zpt/edit.pt",
+		"/Users/jon/Downloads/test.csv.json",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/views/zpt/edit.pt",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/zpt/view.pt",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.app.visualization/eea/app/visualization/browser/app/view.py",
+		"/Users/jon/Code/workspace_python/EauDeWeb/eea.googlecharts/eea/googlecharts/views/view.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/PlainTasks/PlainTasks.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/User/_PlainTasks/tasks.hidden-tmTheme",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/User/PlainTasks.sublime-settings",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/PlainTasks/tasks.hidden-tmTheme",
+		"/Users/jon/Desktop/DynDoc.TODO",
+		"/Users/jon/Desktop/OldDesktop/SitesInBE.csv",
+		"/Users/jon/Code/workspace_python/CHM/bootstrap.py",
+		"/Users/jon/Dropbox/APPs/ST2/Packages/User/_SNIPPETS/objc/AppDelegate.sublime-snippet",
+		"/Users/jon/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/jon/Code/workspace_python/Naaya",
+			"",
+			"/Users/jon/Code/workspace_python/BISE_components/DynDoc/trunk",
+			"/Users/jon/Code/workspace_python/Naaya",
+			"",
+			"NyContainer.py",
+			"NyFolder.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navigate",
+			"api/discs",
+			"createDisc",
+			"mime",
+			"response",
+			"mime",
+			"plain",
+			"mimetype",
+			"response",
+			"Response",
+			"response",
+			"Response",
+			"response",
+			"print",
+			"addMap",
+			"processedWidgets",
+			"_initMap",
+			"addMap",
+			"_setupMaps",
+			"addModule",
+			"packetizeCmd",
+			"js",
+			"files",
+			"dyndoc-map",
+			"_saveExtent",
+			"_setMapNavButtons",
+			"map-buttons",
+			"opacity",
+			"alpha",
+			"opacity",
+			"mapInfoButton ",
+			".infoButton",
+			"_setMapNavButton",
+			"extent created",
+			"        return\nextent created",
+			"        return\nend _queryMaps",
+			"end _queryMaps",
+			"Querying Maps with data offset..",
+			"4 sec",
+			"debugger",
+			"_saveExtent",
+			"_setMapNavButtons",
+			"510_setMapNavButtons",
+			"extent",
+			"setExtent",
+			"debugger",
+			"console.log",
+			"_saveExtent",
+			"_setMapNavButtons",
+			"_saveExtent",
+			"map",
+			"setup",
+			"_setMapNavButtons",
+			"w",
+			"enableEditableGridster",
+			"_setMapNavButtons",
+			"draw",
+			"addMap",
+			"setExtent",
+			"_initMap",
+			"setExtent",
+			"_initMap",
+			"addMap",
+			"map",
+			"save_extent",
+			"ajax",
+			"_setMapNavButtons",
+			"up",
+			"draw",
+			"_setMapNavButtons",
+			"_setInnerInfoButton",
+			"dyndocMap",
+			"addMap",
+			".min",
+			"map",
+			"url(",
+			"@done",
+			"dyndoc_edit_modules",
+			"_convertToTitle",
+			"return",
+			"font",
+			"url(",
+			"searchButton",
+			"searchButtonLi",
+			"layoutAndSearch",
+			".pagin",
+			"console.log",
+			"_queryMaps",
+			"clicked",
+			"_queryMaps",
+			"_createPagination",
+			"maps_pagination",
+			"_queryMaps",
+			"pagination",
+			"map-thumb",
+			"thumb",
+			"thumg",
+			"thumb",
+			".pagination",
+			"pagination",
+			"_paginati",
+			"_paginatin",
+			".pagination",
+			"searchList",
+			".pagination",
+			"\n\n",
+			"layoutAndSearch",
+			"buttonLeft",
+			".grid_9",
+			".grid_9 img",
+			"ui-dyndoc-map-thumb",
+			"hr",
+			"featuredLoading",
+			"layoutAndSearch",
+			"dialog3",
+			"buttonRight",
+			"searchString",
+			"console.log",
+			"_setNodeHTML",
+			"_createPagination",
+			"createMiddleItem",
+			"_createMiddleItem",
+			"offset",
+			"Offset",
+			"offset",
+			"Offset",
+			"offset",
+			"maps_pagination"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "1c9ec163",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/routers/discs_router.js.coffee",
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "7aa25dbd",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"last_edits":
+							{
+								"124":
+								{
+									"a": 164.0,
+									"b": 164.0
+								}
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sftp-config.json",
+					"settings":
+					{
+						"buffer_size": 1249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "c59440d9",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"last_edits":
+							{
+								"127":
+								{
+									"a": 560.0,
+									"b": 560.0
+								},
+								"71":
+								{
+									"a": 430.0,
+									"b": 430.0
+								}
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/views/discs/discs_index.js.coffee",
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "e5f27f81",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"last_edits":
+							{
+								"135":
+								{
+									"a": 849.0,
+									"b": 849.0
+								}
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/jon/Dropbox/Code3/Ekoled/GestionEnergetica.TODO",
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "de24c619",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"last_edits":
+							{
+								"88":
+								{
+									"a": 747.0,
+									"b": 747.0
+								}
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/javascripts/collections/discs.js.coffee",
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "de3f1c77",
+							"color_scheme": "Packages/User/_THEMES/Monokai Ion Dark.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 168.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 328.0
+	},
+	"output.sftp":
+	{
+		"height": 330.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"dyndoc_item",
+				"trunk/src/Products/DynDoc/dyndoc_item.py"
+			],
+			[
+				"dyndoc.less",
+				"trunk/src/Products/DynDoc/www/css/dyndoc.less"
+			],
+			[
+				"dyndoc.css",
+				"trunk/src/Products/DynDoc/www/css/dyndoc.css"
+			],
+			[
+				"dyndocedit.css",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.css"
+			],
+			[
+				"dyndocedit.les",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"dyndocindex.zp",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				"dyndocedit",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_edit_modules.zpt"
+			],
+			[
+				"cake",
+				"trunk/Cakefile"
+			],
+			[
+				"dyndocindex",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				"dyndocmod",
+				"trunk/src/Products/DynDoc/dyndoc_modules.py"
+			],
+			[
+				"dyndoc.js",
+				"trunk/src/Products/DynDoc/www/js/dyndoc.js"
+			],
+			[
+				"dyndocedit.less",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"common.cs",
+				"Naaya/eggs/Naaya/Products/Naaya/www/common.css"
+			],
+			[
+				"dyndoceditmod.co",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndoceditmod.zp",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_edit_modules.zpt"
+			],
+			[
+				"dyndoc_index",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				"dyndoc.les",
+				"trunk/src/Products/DynDoc/www/css/dyndoc.less"
+			],
+			[
+				"dyndoc.coffe",
+				"trunk/src/Products/DynDoc/www/js/dyndoc.coffee"
+			],
+			[
+				"dyndocedit.l",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"dyndocedit.j",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.js"
+			],
+			[
+				"dyndoceditmodul.cof",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndocedi",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_edit_modules.zpt"
+			],
+			[
+				"dyndocedit.cof",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"pdf.zpt",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_pdf.zpt"
+			],
+			[
+				"dyndoceditless",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndoc_def",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_define_graphic.zpt"
+			],
+			[
+				"dyndoceditmodu.js",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.js"
+			],
+			[
+				"definegra",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_define_graphic.coffee"
+			],
+			[
+				"dyndocedit.coffe",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"aaa.t",
+				"trunk/AAA.TODO"
+			],
+			[
+				"aa",
+				"Naaya/eggs/naaya.gwapplications/naaya/gwapplications/emailpt/approved_application.zpt"
+			],
+			[
+				"dyndoceditmodu",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_edit_modules.zpt"
+			],
+			[
+				"dyndoc.j",
+				"trunk/src/Products/DynDoc/www/js/dyndoc.js"
+			],
+			[
+				"edit.less",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"dyndoc.coff",
+				"trunk/src/Products/DynDoc/www/js/dyndoc.coffee"
+			],
+			[
+				"dyndoceditcoff",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndocitem.",
+				"trunk/src/Products/DynDoc/dyndoc_item.py"
+			],
+			[
+				"dyndocitem",
+				"trunk/src/Products/DynDoc/dyndoc_item.py"
+			],
+			[
+				"configure",
+				"trunk/Products/DynDoc/configure.zcml"
+			],
+			[
+				"dyndocjs",
+				"trunk/src/Products/DynDoc/www/js/dyndoc.js"
+			],
+			[
+				"dyndoceditmo.les",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"gridster",
+				"trunk/src/Products/DynDoc/www/js/jquery.gridster.js"
+			],
+			[
+				"dyndoceditmo",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndocindex.zpt",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				"dyndoc.py",
+				"trunk/src/Products/DynDoc/dyndoc_item.py"
+			],
+			[
+				"modules.py",
+				"trunk/src/Products/DynDoc/dyndoc_modules.py"
+			],
+			[
+				"dyndoceditmod.coff",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndoceditmodul.js",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.js"
+			],
+			[
+				"dyndoceditmod",
+				"trunk/src/Products/DynDoc/www/js/dyndoc_edit_modules.coffee"
+			],
+			[
+				"dyndoceditmodul",
+				"trunk/src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"dyndocedit.zp",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_edit.zpt"
+			],
+			[
+				"dyndoc.zpt",
+				"trunk/src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				"edit.js",
+				"eea.googlecharts/eea/googlecharts/views/js/edit.js"
+			],
+			[
+				"tas.",
+				"trunk/Tasks.TODO"
+			],
+			[
+				"dyn",
+				"trunk/DynDoc.TODO"
+			],
+			[
+				".todo",
+				"trunk/Tasks.TODO"
+			],
+			[
+				"dyndoc.tod",
+				"trunk/DynDoc.TODO"
+			],
+			[
+				"edit.pt",
+				"eea.app.visualization/eea/app/visualization/browser/zpt/edit.pt"
+			],
+			[
+				"view.pt",
+				"eea.app.visualization/eea/app/visualization/browser/zpt/view.pt"
+			],
+			[
+				"dynd",
+				"trunk/DynDoc.TODO"
+			],
+			[
+				"dyndocindex.z",
+				"src/Products/DynDoc/zpt/dyndoc_index.zpt"
+			],
+			[
+				".zpt",
+				"src/Products/DynDoc/zpt/dyndoc_folder_index.zpt"
+			],
+			[
+				"dyndoc.min",
+				"src/Products/DynDoc/www/js/dyndoc.min.js"
+			],
+			[
+				"define",
+				"src/Products/DynDoc/www/js/dyndoc_define_graphic.coffee"
+			],
+			[
+				"dyndoc.co",
+				"src/Products/DynDoc/www/js/dyndoc.coffee"
+			],
+			[
+				"common.js",
+				"src/Products/DynDoc/www/js/common.js"
+			],
+			[
+				"dyndocedi.les",
+				"src/Products/DynDoc/www/css/dyndoc_edit_modules.less"
+			],
+			[
+				"dyndoc_edi",
+				"src/Products/DynDoc/zpt/dyndoc_edit.zpt"
+			],
+			[
+				"vcfor",
+				"iNVASIVE/iNVASIVE/VCReportForum.m"
+			],
+			[
+				"vcroo",
+				"iNVASIVE/iNVASIVE/VCRoot.m"
+			],
+			[
+				"vcreport",
+				"iNVASIVE/iNVASIVE/VCReportDetail.m"
+			],
+			[
+				"vcmap",
+				"iNVASIVE/iNVASIVE/VCMapView.h"
+			],
+			[
+				"getspecie",
+				"iNVASIVE/iNVASIVE/GetSpeciesContender.m"
+			],
+			[
+				"vcmapview",
+				"iNVASIVE/iNVASIVE/VCMapView.m"
+			],
+			[
+				"addvote",
+				"iNVASIVE/iNVASIVE/AddVoteOperation.m"
+			],
+			[
+				"root",
+				"iNVASIVE/iNVASIVE/RootViewController.m"
+			],
+			[
+				"vcroot",
+				"iNVASIVE/iNVASIVE/VCRoot.m"
+			],
+			[
+				"learn",
+				"iNVASIVE/iNVASIVE/VCLearnValidate.m"
+			],
+			[
+				"detail",
+				"iNVASIVE/iNVASIVE/DetailViewController.m"
+			],
+			[
+				"rootview",
+				"iNVASIVE/iNVASIVE/RootViewController.m"
+			],
+			[
+				"addatta",
+				"iNVASIVE/iNVASIVE/AddAttachment.m"
+			],
+			[
+				"invasiveapp",
+				"iNVASIVE/iNVASIVE/iPhone/iNVASIVEAppDelegate_iPhone.m"
+			],
+			[
+				"saverepo",
+				"iNVASIVE/iNVASIVE/SaveReport.h"
+			],
+			[
+				"report",
+				"iNVASIVE/iNVASIVE/Report.h"
+			],
+			[
+				"save",
+				"iNVASIVE/iNVASIVE/SaveReport.m"
+			],
+			[
+				"getcommembers",
+				"iNVASIVE/iNVASIVE/GetCommunityMembership.h"
+			],
+			[
+				"getmemb",
+				"iNVASIVE/iNVASIVE/GetCommunityMembership.h"
+			],
+			[
+				"getcommunitya",
+				"iNVASIVE/iNVASIVE/GetCommunityAttachments.h"
+			],
+			[
+				"getuserop",
+				"iNVASIVE/iNVASIVE/GetUserOperation.h"
+			],
+			[
+				"getcommunityattach",
+				"iNVASIVE/iNVASIVE/GetCommunityAttachments.h"
+			],
+			[
+				"detailview",
+				"iNVASIVE/iNVASIVE/DetailViewController.h"
+			],
+			[
+				"loadmostcom",
+				"iNVASIVE/iNVASIVE/LoadMostCommonOperation.m"
+			],
+			[
+				"getcom",
+				"iNVASIVE/iNVASIVE/GetCommunity.h"
+			],
+			[
+				"invas",
+				"iNVASIVE/iNVASIVE/iNVASIVEAppDelegate.m"
+			],
+			[
+				"invasi",
+				"iNVASIVE/iNVASIVE/iPhone/iNVASIVEAppDelegate_iPhone.h"
+			],
+			[
+				"getu",
+				"iNVASIVE/iNVASIVE/GetUserOperation.h"
+			],
+			[
+				"invasiveappdelegate",
+				"iNVASIVE/iNVASIVE/iPad/iNVASIVEAppDelegate_iPad.h"
+			],
+			[
+				"invasiveappdel",
+				"iNVASIVE/iNVASIVE/iPhone/iNVASIVEAppDelegate_iPhone.h"
+			],
+			[
+				"mostcommonopera",
+				"iNVASIVE/iNVASIVE/LoadMostCommonOperation.m"
+			],
+			[
+				"vcmostcom",
+				"iNVASIVE/iNVASIVE/VCMostCommon.m"
+			],
+			[
+				"getspeciescontender",
+				"iNVASIVE/iNVASIVE/GetSpeciesContender.h"
+			],
+			[
+				"getnext",
+				"iNVASIVE/iNVASIVE/GetNextVoteOperation.m"
+			],
+			[
+				"loadmostcommon",
+				"iNVASIVE/iNVASIVE/LoadMostCommonOperation.h"
+			],
+			[
+				"nature.pch",
+				"iNVASIVE/NatureWatch-Prefix.pch"
+			],
+			[
+				"bmaudi",
+				"iNVASIVE/BMAudioRecorder.h"
+			],
+			[
+				"spe",
+				"iNVASIVE/Species.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jonarrien/Code/workspace_python/DynDoc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true
+}

@@ -1,39 +1,38 @@
-<h1>Discs</h1>
+<legend>Discs</legend>
 
-<div class="hero-unit">
-    <ul id="discs" class="ui-table"></ul>
-</div>
+<div class="row">
+    <div class="span8">
+        <ul id="discs" class="ui-table"></ul>
+    </div>
+    <div class="span4">
+        <form id="new_disc" class="form-inline" style="margin:0;">
+            <legend>Create new disc:</legend>
 
-<br>
-
-<div class="hero-unit">
-    <form id="new_disc" class="form-inline">
-
-        <div class="control-group">
-            <legend>Disc Title</legend>
-            <div class="controls">
-                <input type="text" name="new_disc_title" id="new_disc_title" placeholder="Disc Title..." class="input-large">
-            </div>
-        </div>
-
-        <div class="control-group">
-            <legend>Disc Image</legend>
-            <div class="controls">
-                <input id="new_disc_image" type="file" class="large" style="display:none">
-                <div class="input-append">
-                   <input id="photoCover" class="input-large" type="text">
-                   <a class="btn" onclick="$('input[id=new_disc_image]').click();">Browse</a>
+            <div class="control-group">
+                <h6>Disc Title</h6>
+                <div class="controls">
+                    <input type="text" name="new_disc_title" id="new_disc_title" placeholder="Disc Title..." class="input-large">
                 </div>
-
-                <script type="text/javascript">
-                    $('input[id=new_disc_image]').change(function() {
-                       $('#photoCover').val($(this).val());
-                    });
-                </script>
             </div>
-        </div>
 
-        <input type="submit" value="Add" class="btn btn-primary btn-large">
-    </form>
+            <div class="control-group">
+                <h6>Disc Image</h6>
+                <div class="controls">
+                    <input id="new_disc_image" type="file" class="large" style="display:none">
+                    <div class="input-append">
+                    <input id="photoCover" class="input-large" type="text">
+                           <a class="btn" onclick="$('input[id=new_disc_image]').click();">Browse</a>
+                    </div>
+
+                    <script type="text/javascript">
+                        $('input[id=new_disc_image]').change(function() {
+                           $('#photoCover').val($(this).val());
+                        });
+                    </script>
+                </div>
+            </div>
+
+            <input type="submit" value="Add" class="btn btn-primary">
+        </form>
+    </div>
 </div>
-

@@ -1,4 +1,13 @@
 <img src="<%= @disc.get('image') %>" alt="">
-<h5>
+<a href="" class="btn btn-danger btn-delete">X</a>
+<a class="btn btn-success btn-show">Show</a>
+<div class="title">
+    <div>
     <%= @disc.get('title') %>
-</h5>
+    </div>
+</div>
+<div class="description">
+    <p>
+        This should be disc's description.
+    </p>
+</div>

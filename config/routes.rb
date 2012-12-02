@@ -5,6 +5,6 @@ Albums::Application.routes.draw do
     end
 
     root :to => "main#index"
-    match '*path', :to => 'main#index'
+    # match '*', :to => 'main#index'
 
 end
