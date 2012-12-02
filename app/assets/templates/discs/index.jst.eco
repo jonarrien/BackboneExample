@@ -24,11 +24,7 @@
                            <a class="btn" onclick="$('input[id=new_disc_image]').click();">Browse</a>
                     </div>
 
-                    <script type="text/javascript">
-                        $('input[id=new_disc_image]').change(function() {
-                           $('#photoCover').val($(this).val());
-                        });
-                    </script>
+
                 </div>
             </div>
 

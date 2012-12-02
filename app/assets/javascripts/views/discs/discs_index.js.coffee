@@ -4,6 +4,7 @@ class Albums.Views.DiscsIndex extends Backbone.View
 
     events:
         'submit #new_disc': 'createDisc'
+        'change #new_disc_image': 'getFileName'
 
     initialize: ->
         @collection.on 'reset', @render, @
@@ -47,4 +48,5 @@ class Albums.Views.DiscsIndex extends Backbone.View
         )
         reader.readAsDataURL(file)
 
-
+    getFileName: ->
+        $('#photoCover').val $(@).val()
