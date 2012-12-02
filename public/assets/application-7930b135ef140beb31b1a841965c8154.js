@@ -14681,7 +14681,7 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
     (function() {
       (function() {
       
-        __out.push('<legend>Discs</legend>\n\n<div class="row">\n    <div class="span8">\n        <ul id="discs" class="ui-table"></ul>\n    </div>\n    <div class="span4">\n        <form id="new_disc" class="form-inline" style="margin:0;">\n            <legend>Create new disc:</legend>\n\n            <div class="control-group">\n                <h6>Disc Title</h6>\n                <div class="controls">\n                    <input type="text" name="new_disc_title" id="new_disc_title" placeholder="Disc Title..." class="input-large">\n                </div>\n            </div>\n\n            <div class="control-group">\n                <h6>Disc Image</h6>\n                <div class="controls">\n                    <input id="new_disc_image" type="file" class="large" style="display:none">\n                    <div class="input-append">\n                    <input id="photoCover" class="input-large" type="text">\n                           <a class="btn" onclick="$(\'input[id=new_disc_image]\').click();">Browse</a>\n                    </div>\n\n\n                </div>\n            </div>\n\n            <input type="submit" value="Add" class="btn btn-primary">\n        </form>\n    </div>\n</div>\n');
+        __out.push('<legend>Discs</legend>\n\n<div class="row">\n    <div class="span8">\n        <ul id="discs" class="ui-table"></ul>\n    </div>\n    <div class="span4">\n        <form id="new_disc" class="form-inline" style="margin:0;">\n            <legend>Create new disc:</legend>\n\n            <div class="control-group">\n                <h6>Disc Title</h6>\n                <div class="controls">\n                    <input type="text" name="new_disc_title" id="new_disc_title" placeholder="Disc Title..." class="input-large">\n                </div>\n            </div>\n\n            <div class="control-group">\n                <h6>Disc Image</h6>\n                <div class="controls">\n                    <input id="new_disc_image" type="file" class="large" style="display:none">\n                    <div class="input-append">\n                    <input id="photoCover" class="input-large" type="text">\n                           <a class="btn" onclick="$(\'input[id=new_disc_image]\').click();">Browse</a>\n                    </div>\n                </div>\n            </div>\n\n            <input type="submit" value="Add" class="btn btn-primary">\n        </form>\n    </div>\n</div>\n');
       
       }).call(this);
       
@@ -14732,7 +14732,7 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
     (function() {
       (function() {
       
-        __out.push('\n<h1 id="title"></h1>\n<img id="folder" src="" alt="" style="width: 512px; height: 512px;">\n<br>\n<a id="back" class="btn">Back</a>\n\n');
+        __out.push('\n<legend id="title"></legend>\n<a id="back" class="btn" style="float:left;">Back</a>\n<div class="picture">\n    <img id="folder" src="" alt="" style=" display: block;   margin-left: auto;   margin-right: auto;width: 512px; height: 512px;">\n</div>\n\n\n');
       
       }).call(this);
       
@@ -14899,7 +14899,6 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
 
     DiscsIndex.prototype.createDisc = function(event) {
       var file;
-      console.log('createDisc');
       event.preventDefault();
       file = $('#new_disc_image')[0].files[0];
       this.readFile(file);
@@ -14917,20 +14916,14 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
           image: data
         };
         return c.create(attributes, {
-          wait: true,
-          success: function() {
-            return console.log('Oh yeah!!');
-          },
-          error: function(disc, response) {
-            return console.log(response);
-          }
+          wait: true
         });
       });
       return reader.readAsDataURL(file);
     };
 
-    DiscsIndex.prototype.getFileName = function() {
-      return $('#photoCover').val($(this).val());
+    DiscsIndex.prototype.getFileName = function(event) {
+      $('#photoCover').val(event.currentTarget.value);
     };
 
     return DiscsIndex;
@@ -14966,7 +14959,6 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
     };
 
     DiscsShow.prototype.goBack = function() {
-      console.log('go back..');
       return Backbone.history.navigate("", {
         trigger: true,
         replace: true
@@ -15002,7 +14994,6 @@ if ( typeof define === "function" && define.amd && define.amd.jQuery ) {
 
     Discs.prototype.index = function() {
       var view;
-      console.log('disc_router::index');
       view = new Albums.Views.DiscsIndex({
         collection: this.collection
       });

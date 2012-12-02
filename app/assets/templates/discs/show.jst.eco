@@ -1,6 +1,8 @@
 
-<h1 id="title"></h1>
-<img id="folder" src="" alt="" style="width: 512px; height: 512px;">
-<br>
-<a id="back" class="btn">Back</a>
+<legend id="title"></legend>
+<a id="back" class="btn" style="float:left;">Back</a>
+<div class="picture">
+    <img id="folder" src="" alt="" style=" display: block;   margin-left: auto;   margin-right: auto;width: 512px; height: 512px;">
+</div>
+
 

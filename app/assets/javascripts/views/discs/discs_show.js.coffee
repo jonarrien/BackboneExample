@@ -16,6 +16,5 @@ class Albums.Views.DiscsShow extends Backbone.View
         @
 
     goBack: ->
-        console.log 'go back..'
         Backbone.history.navigate("", {trigger: true, replace: true})
 

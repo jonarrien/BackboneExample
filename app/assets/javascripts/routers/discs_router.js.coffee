@@ -9,7 +9,6 @@ class Albums.Routers.Discs extends Backbone.Router
         @collection.fetch()
 
     index: ->
-        console.log 'disc_router::index'
         view = new Albums.Views.DiscsIndex(collection: @collection)
         $('#disc-container').html view.render().el
 

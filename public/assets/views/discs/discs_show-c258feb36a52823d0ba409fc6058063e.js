@@ -26,7 +26,6 @@
     };
 
     DiscsShow.prototype.goBack = function() {
-      console.log('go back..');
       return Backbone.history.navigate("", {
         trigger: true,
         replace: true

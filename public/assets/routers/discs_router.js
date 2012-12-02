@@ -22,7 +22,6 @@
 
     Discs.prototype.index = function() {
       var view;
-      console.log('disc_router::index');
       view = new Albums.Views.DiscsIndex({
         collection: this.collection
       });

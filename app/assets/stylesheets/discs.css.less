@@ -2,6 +2,22 @@
 
 #disc-container {
     margin-top: 60px;
+
+    legend {
+        background: #3a3a3a;
+        color: white;
+
+        font-family: Futura;
+        font-style: italic;
+
+        padding-left: 10px;
+        -webkit-border-radius: 7px;
+        border-radius: 7px;
+        border-bottom: 1px solid black;
+
+        -webkit-box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+        box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+    }
 }
 
 #content-body {
@@ -17,7 +33,20 @@
 }
 
 #new_disc {
-    margin-top: 20px;
+    margin-top: 10px;
+    background-color: #e5e5e5;
+    padding: 10px;
+
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+
+    -webkit-box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+    box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+
+    legend {
+        width: 96%;
+        margin-bottom: 0;
+    }
 }
 
 
@@ -26,6 +55,11 @@
     list-style: none;
     text-decoration: none;
     margin: 0;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+
+    -webkit-box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+    box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
 
     &:hover {
         text-decoration: none;
@@ -45,6 +79,15 @@
         background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
         background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+
+        &:first-child{
+            -webkit-border-radius: 10px 10px 0px 0px;
+            border-radius: 10px 10px 0px 0px;
+        }
+        &:last-child{
+            -webkit-border-radius: 0 0 10px 10px;
+            border-radius: 0 0 10px 10px;
+        }
 
         &:hover {
             text-decoration: none;
@@ -99,3 +142,12 @@
     }
 }
 
+.picture {
+    img {
+        border: 1px solid #515151;
+        -webkit-box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+        box-shadow:  0px 4px 4px 4px rgba(0, 0, 0, 0.3);
+        -webkit-border-radius: 15px;
+        border-radius: 15px;
+    }
+}

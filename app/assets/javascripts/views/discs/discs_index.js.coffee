@@ -24,7 +24,6 @@ class Albums.Views.DiscsIndex extends Backbone.View
         $(@el).find('.event').remove()
 
     createDisc: (event) ->
-        console.log 'createDisc'
         event.preventDefault()
         file = $('#new_disc_image')[0].files[0]
         @readFile(file)
@@ -41,12 +40,13 @@ class Albums.Views.DiscsIndex extends Backbone.View
                 image: data
             c.create attributes,
                 wait: true
-                success: ->
-                    console.log 'Oh yeah!!'
-                error: (disc, response) ->
-                    console.log response
+                # success: ->
+                #     console.log 'Oh yeah!!'
+                # error: (disc, response) ->
+                #     console.log response
         )
         reader.readAsDataURL(file)
 
-    getFileName: ->
-        $('#photoCover').val $(@).val()
+    getFileName: (event) ->
+        $('#photoCover').val(event.currentTarget.value)
+        return

@@ -40,7 +40,7 @@
     (function() {
       (function() {
       
-        __out.push('\n<h1 id="title"></h1>\n<img id="folder" src="" alt="" style="width: 512px; height: 512px;">\n<br>\n<a id="back" class="btn">Back</a>\n\n');
+        __out.push('\n<legend id="title"></legend>\n<a id="back" class="btn" style="float:left;">Back</a>\n<div class="picture">\n    <img id="folder" src="" alt="" style=" display: block;   margin-left: auto;   margin-right: auto;width: 512px; height: 512px;">\n</div>\n\n\n');
       
       }).call(this);
       

@@ -23,8 +23,6 @@
                     <input id="photoCover" class="input-large" type="text">
                            <a class="btn" onclick="$('input[id=new_disc_image]').click();">Browse</a>
                     </div>
-
-
                 </div>
             </div>
 

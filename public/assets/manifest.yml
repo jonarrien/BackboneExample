@@ -3,22 +3,22 @@
 !binary "YmcuanBnLmJhY2t1cA==": bg.jpg-dd26d44c4d1b2eac479fd788681e199f.backup
 !binary "cmFpbHMucG5n": rails-be8732dac73d845ac5b142c8fb5f9fb0.png
 !binary "YWxidW1zLmpz": albums-a124fb6b6058d630a2794121148021f7.js
-!binary "YXBwbGljYXRpb24uanM=": application-43cb83d014016bc93989c7da37ad01e3.js
+!binary "YXBwbGljYXRpb24uanM=": application-7930b135ef140beb31b1a841965c8154.js
 !binary "Ym9vdHN0cmFwLmpz": bootstrap-d3d11977a5de587e7d63e1e391a800dd.js
 !binary "Y29sbGVjdGlvbnMvZGlzY3MuanM=": collections/discs-5c17c8ffc1c4c559ae4e91ab63f4c647.js
 !binary "bW9kZWxzL2Rpc2MuanM=": models/disc-eee5dbeca143825ebfbb79e13e0ac402.js
-!binary "cm91dGVycy9kaXNjc19yb3V0ZXIuanM=": routers/discs_router-df1d3372873e1ef6bdd06c05e3c7e813.js
+!binary "cm91dGVycy9kaXNjc19yb3V0ZXIuanM=": routers/discs_router-13cfb219635f4be90d49571d2fe59e77.js
 !binary "dmlld3MvZGlzY3MvZGlzYy5qcw==": views/discs/disc-15cc054340f5eed31a1b41f121a14f81.js
-!binary "dmlld3MvZGlzY3MvZGlzY3NfaW5kZXguanM=": views/discs/discs_index-c0e3ed5ebd273228ccf7fa3736e415cc.js
-!binary "dmlld3MvZGlzY3MvZGlzY3Nfc2hvdy5qcw==": views/discs/discs_show-cc2cbfaa68318efd1e01037bdec4214f.js
+!binary "dmlld3MvZGlzY3MvZGlzY3NfaW5kZXguanM=": views/discs/discs_index-abdeea03da658bfdbe39cd2a1dc36a4a.js
+!binary "dmlld3MvZGlzY3MvZGlzY3Nfc2hvdy5qcw==": views/discs/discs_show-c258feb36a52823d0ba409fc6058063e.js
 !binary "dmlld3MvZGlzY3MvdW50aXRsZWQuVE9ETw==": views/discs/untitled-b699135e1634c4bac4578f976274b254.TODO
-!binary "YXBwbGljYXRpb24uY3Nz": application-ae7c40d94ded18c8f42de944e12cde2e.css
+!binary "YXBwbGljYXRpb24uY3Nz": application-6ec2ed6f36656f34f4ee17ddc4dd5904.css
 !binary "Ym9vdHN0cmFwX2FuZF9vdmVycmlkZXMuY3Nz": bootstrap_and_overrides-3d71397559011f22c285d7bc54dd730e.css
-!binary "ZGlzY3MuY3Nz": discs-57e5dd3955e466a1c43858285ba76b63.css
+!binary "ZGlzY3MuY3Nz": discs-21694420e5fdad3165ca978a221f3af6.css
 !binary "bWFpbi5jc3M=": main-7270767b2a9e9fff880aa5de378ca791.css
 !binary "ZGlzY3MvZGlzYy5qcw==": discs/disc-8a7a680de60bed9c90411f3147614188.js
-discs.js: discs-b1c68c9bf69926c62367ffbe14128645.js
-!binary "ZGlzY3Mvc2hvdy5qcw==": discs/show-81fec6697a0eaff9bd4e02b2fc6f6d7a.js
+discs.js: discs-9f620c9eb21b96fe733e3e025bcd8435.js
+!binary "ZGlzY3Mvc2hvdy5qcw==": discs/show-4085b0f56bd6b9fdcbe59e771694365f.js
 !binary "Y29mZmVlLXNjcmlwdC5qcw==": coffee-script-167078c84663ea820c2bf9815d222a36.js
 !binary "YmFja2JvbmUuanM=": backbone-eb6dd4f537a397d4dfd336af8da134f6.js
 !binary "dW5kZXJzY29yZS5qcw==": underscore-0f3f16cb5688c6208869f3284198bd18.js

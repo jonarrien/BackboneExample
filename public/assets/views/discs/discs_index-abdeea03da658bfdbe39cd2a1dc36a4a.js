@@ -17,7 +17,8 @@
     DiscsIndex.prototype.template = JST['discs/index'];
 
     DiscsIndex.prototype.events = {
-      'submit #new_disc': 'createDisc'
+      'submit #new_disc': 'createDisc',
+      'change #new_disc_image': 'getFileName'
     };
 
     DiscsIndex.prototype.initialize = function() {
@@ -45,7 +46,6 @@
 
     DiscsIndex.prototype.createDisc = function(event) {
       var file;
-      console.log('createDisc');
       event.preventDefault();
       file = $('#new_disc_image')[0].files[0];
       this.readFile(file);
@@ -63,16 +63,14 @@
           image: data
         };
         return c.create(attributes, {
-          wait: true,
-          success: function() {
-            return console.log('Oh yeah!!');
-          },
-          error: function(disc, response) {
-            return console.log(response);
-          }
+          wait: true
         });
       });
       return reader.readAsDataURL(file);
+    };
+
+    DiscsIndex.prototype.getFileName = function(event) {
+      $('#photoCover').val(event.currentTarget.value);
     };
 
     return DiscsIndex;
